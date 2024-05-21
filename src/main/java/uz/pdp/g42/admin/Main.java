@@ -17,7 +17,6 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Scanner scannerStr = new Scanner(System.in);
         Scanner scannerInt = new Scanner(System.in);
-        Scanner scannerDouble = new Scanner(System.in);
 
         FileService<Category> fileService = new FileService<>();
         CategoryDao categoryDao = new CategoryDao(fileService);
