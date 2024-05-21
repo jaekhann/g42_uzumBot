@@ -1,6 +1,5 @@
 package uz.pdp.g42.admin;
 
-import uz.pdp.g42.bot.service.InlineMarkupService;
 import uz.pdp.g42.common.dao.CategoryDao;
 import uz.pdp.g42.common.dao.ProductDao;
 import uz.pdp.g42.common.model.Category;
@@ -17,6 +16,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Scanner scannerStr = new Scanner(System.in);
         Scanner scannerInt = new Scanner(System.in);
+        System.out.println();
 
         FileService<Category> fileService = new FileService<>();
         CategoryDao categoryDao = new CategoryDao(fileService);
