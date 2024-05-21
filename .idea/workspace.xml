@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24fb05a5-a222-4723-841d-53cdbc4b04b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/json/category.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/product.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/admin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/UzumBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/model/enums/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/service/InlineMarkupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/strategy/CategoryStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/strategy/ChildCategoryStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/strategy/MainLayoutStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/bot/strategy/TelegramBotStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/dao/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/dao/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/dao/enums/FilePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/model/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/model/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/service/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/service/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/common/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/g42/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gMk9vkW7w3NDGTGqkZ9Exnkkyq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.uz.pdp.g42.bot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbookpro/Desktop/g42_uzum_uz&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.uz.pdp.g42.bot.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.pdp.g42.admin.Main" />
+      <module name="g42_uzum_uz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.pdp.g42.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uz.pdp.g42.bot.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.pdp.g42.bot.Main" />
+      <module name="g42_uzum_uz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.pdp.g42.bot.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.uz.pdp.g42.bot.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24fb05a5-a222-4723-841d-53cdbc4b04b3" name="Changes" comment="" />
+      <created>1715508348254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715508348254</updated>
+      <workItem from="1715508349302" duration="194000" />
+      <workItem from="1715514688149" duration="6301000" />
+      <workItem from="1716042457112" duration="2978000" />
+      <workItem from="1716045715035" duration="8221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
