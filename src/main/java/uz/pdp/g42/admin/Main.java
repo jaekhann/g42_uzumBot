@@ -17,6 +17,7 @@ public class Main {
         Scanner scannerStr = new Scanner(System.in);
         Scanner scannerInt = new Scanner(System.in);
         System.out.println();
+        System.out.println();
 
         FileService<Category> fileService = new FileService<>();
         CategoryDao categoryDao = new CategoryDao(fileService);
