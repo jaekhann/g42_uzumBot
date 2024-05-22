@@ -14,6 +14,7 @@ import java.util.UUID;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+        System.out.println("true");
         Scanner scannerStr = new Scanner(System.in);
         Scanner scannerInt = new Scanner(System.in);
         System.out.println();
